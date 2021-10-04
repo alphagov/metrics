@@ -1,3 +1,5 @@
+> As of October 2021 this fork is no longer maintained by the GOV.UK Pay Team.
+
 Metrics
 =======
 
